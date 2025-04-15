@@ -1,0 +1,7 @@
+com\Ejercicio3\itemReader\CustomReader.class
+com\Ejercicio3\repository\EmployeeRepository.class
+com\Ejercicio3\itemProcessor\Validador.class
+com\Ejercicio3\model\Employee.class
+com\Ejercicio3\itemProcessor\EmployeeProcesado.class
+com\Ejercicio3\Ejercicio3Application.class
+com\Ejercicio3\itemWriter\CustomWriter.class
